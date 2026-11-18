@@ -1,0 +1,8 @@
+//JSDDE001 JOB (SDD),'PAGAMENTOS SDD',CLASS=A,MSGCLASS=X
+//*-------------------------------------------------------------------
+//* JSDDE001 - EXECUTA A PROCEDURE PSDDE001
+//* SUBMISSAO MANUAL, SOB DEMANDA (EVENTUAL), SEM AGENDAMENTO
+//* ANTES DE REEXECUTAR, EXCLUIR SDD.PAGAMENT.APROVADO E
+//* SDD.PAGAMENT.REJEITAD (VER DSDDE001)
+//*-------------------------------------------------------------------
+//PASSO01  EXEC PSDDE001
